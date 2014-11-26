@@ -5,7 +5,7 @@ WorkshopPython
 
   
 ![I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I am leaving you.](http://imgs.xkcd.com/comics/python.png)  
-[ [xkcd](http://xkcd.com/353/) ]  
+["I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I am leaving you." Randall Munroe, [XKCD](http://xkcd.com/353/) ]  
   
   
 1. **[Primeros pasos en Python](https://drive.google.com/file/d/0B3LhAPLJWKt9YmFyY0FVNFpfUjQ/view?usp=sharing)**
