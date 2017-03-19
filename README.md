@@ -9,7 +9,7 @@ It was wonderful.  Perl, I am leaving you."* Randall Munroe, [XKCD](http://xkcd.
   
 ----------------------------  
   
-1. **[Primeros pasos en Python](https://drive.google.com/file/d/0B3LhAPLJWKt9YmFyY0FVNFpfUjQ/view?usp=sharing)**
+1. **[Primeros pasos en Python](http://nbviewer.jupyter.org/format/slides/github/diegozea/WorkshopPython/blob/master/Notebooks/Primeros%20pasos.ipynb#/)**
 	* Métodos y funciones
 	* Documentación: docstrings
 	* Tipos de objetos básicos: int, float, str, list, dict, set
