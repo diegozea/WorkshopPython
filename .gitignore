@@ -1,0 +1,6 @@
+# IJulia notebook:
+.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints
+
+# vim temporary files
+*~
