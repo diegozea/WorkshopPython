@@ -29,8 +29,6 @@ It was wonderful.  Perl, I am leaving you."* Randall Munroe, [XKCD](http://xkcd.
 			* **[Slicing](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/BioSeq%20-%20Iteration%20&%20Slicing%20.ipynb)**
 		* **[Escritura de archivos & secuencias: SeqIO](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Secuencias%20&%20Escritura%20de%20Archivos.ipynb)**
 		* **[Lectura de archivos & gráficos: matplotlib](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Lectura%20de%20Archivos%20&%20Gr%C3%A1ficos.ipynb)**
-		* **[BLAST remoto](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/BLAST.ipynb)**
-			* Obteniendo datos de Entrez
 		* **[Lectura de archivos PBD](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/PDB%20BioPython.ipynb)**
 			* Cálculo de contactos
 	* Manejando números: NumPy
