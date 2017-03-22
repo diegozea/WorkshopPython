@@ -24,11 +24,6 @@ It was wonderful.  Perl, I am leaving you."* Randall Munroe, [XKCD](http://xkcd.
 		* Entrada por línea de comandos: argparse
 		* Testeo & documentación: doctest and docstrings
 3. Análisis de datos de manera interactiva
-	* **[Tablas de datos: PANDAS](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Explorando%20Datos%20con%20pandas.ipynb)**
-		* **[Datos en grupos](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Analizando%20Datos%20en%20Grupos.ipynb)**
-		* **[Datos faltantes](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/NA.ipynb)**
-		* **[Análisis de Normalidad](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Normalidad.ipynb)**
-	* Manejando números: NumPy
 	* Análisis de datos biológicos: Biopython
 		* **[BioSeq](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/BioSeq.ipynb)**
 			* **[Slicing](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/BioSeq%20-%20Iteration%20&%20Slicing%20.ipynb)**
@@ -38,6 +33,11 @@ It was wonderful.  Perl, I am leaving you."* Randall Munroe, [XKCD](http://xkcd.
 			* Obteniendo datos de Entrez
 		* **[Lectura de archivos PBD](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/PDB%20BioPython.ipynb)**
 			* Cálculo de contactos
+	* Manejando números: NumPy
+	* **[Tablas de datos: PANDAS](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Explorando%20Datos%20con%20pandas.ipynb)**
+		* **[Datos en grupos](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Analizando%20Datos%20en%20Grupos.ipynb)**
+		* **[Datos faltantes](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/NA.ipynb)**
+		* **[Análisis de Normalidad](http://nbviewer.ipython.org/github/diegozea/WorkshopPython/blob/master/Notebooks/Normalidad.ipynb)**
 
 ----------------------------  
   
