@@ -11,15 +11,21 @@ def ej(s=""):
 	"""Ejemplo
 
 	>>> ej("!")
-	'Hola mundo!'
+	'Hola mundo !'
 	"""
 	return( 'Hola mundo ' + s )
 
 if __name__ == "__main__":
+
 	import argparse
+
 	parser = argparse.ArgumentParser(description='Hola mundo mas algo...')
+
 	parser.add_argument('Text', metavar='T', type=str, nargs=1,
                    help='Texto a imprimir')
 
 	args = parser.parse_args()
-	print(ej(args.Text[0]))
+
+	salida = ej( args.Text[0] )
+
+	print(salida)
